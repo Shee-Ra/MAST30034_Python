@@ -1,5 +1,5 @@
 # Welcome to the MAST30034 Python Repo
-- Author: !(Akira Takihara Wang)[https://github.com/akiratwang]
+- Author: [Akira Takihara Wang](https://github.com/akiratwang)
 - Tutorial Up-to-Date as of: April 2021 (in progress) 
 - Usage: For MAST30034 students only  
 
