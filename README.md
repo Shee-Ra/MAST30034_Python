@@ -66,15 +66,15 @@ Visualizations:
 
 ## Dates and Times (to be confirmed)
 On Campus:
-- Monday 13:15 - 15:15 (Python)
+- Monday 13:15 - 15:15 (R - CONFIRMED)
 - Tuesday: 14:15 - 16:15 (Python)
 - Wednesday: 11:00 - 13:00 (Python)
-- Thursday: 10:00 - 12:00 (R)
+- Thursday: 10:00 - 12:00 (Python)
 
 Online:
-- Tuesday: 16:15 - 18:15 (R)
-- Wednesday: 14:15 - 16:15 (R)
-- Thursday: 13:00 - 15:00 (Python), 15:15 - 17:15 (Python)
+- Tuesday: 16:15 - 18:15 (R - CONFIRMED)
+- Wednesday: 14:15 - 16:15 (Python)
+- Thursday: 13:00 - 15:00 (Python - AKIRA), 15:15 - 17:15 (Python - AKIRA)
 
 ## Consultations
 TBA
