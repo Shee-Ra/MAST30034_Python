@@ -66,15 +66,15 @@ Visualizations:
 
 ## Dates and Times (to be confirmed)
 On Campus:
-- Monday 13:15 - 15:15 (R - CONFIRMED)
-- Tuesday: 14:15 - 16:15 (Python - AKIRA)
-- Wednesday: 11:00 - 13:00 (Python - AKIRA)
-- Thursday: 10:00 - 12:00 (Python - TBA)
+- Monday 13:15 - 15:15 (R - Yue)
+- Tuesday: 14:15 - 16:15 (Python - Akira)
+- Wednesday: 11:00 - 13:00 (Python - Akira)
+- Thursday: 10:00 - 12:00 (Python - Calvin)
 
 Online:
-- Tuesday: 16:15 - 18:15 (R - CONFIRMED)
-- Wednesday: 14:15 - 16:15 (Python - TBA)
-- Thursday: 13:00 - 15:00 (Python - AKIRA), 15:15 - 17:15 (Python - AKIRA)
+- Tuesday: 16:15 - 18:15 (R - Yue)
+- Wednesday: 14:15 - 16:15 (Python - Calvin)
+- Thursday: 13:00 - 15:00 (Python - Akira), 15:15 - 17:15 (Python - Akira)
 
 ## Consultations
 TBA
