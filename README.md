@@ -3,17 +3,21 @@
 - Tutorial Up-to-Date as of: April 2021 (in progress) 
 - Usage: For MAST30034 students only  
 
-This repository will house all Python workshops and some extra stuff (for Windows users).
-
-Please note that this subject is akin to the Computer Systems "IT Project" and there is a high expectation that students spend time learning additional tools and conducting quality research.
-
 The R stream is available here (TBA).
 
-**NOTE: This repository is still being constructed and updated from the 2020 content.**
+## Dates and Times
+On Campus:
+- Monday 13:15 - 15:15 (R - Yue)
+- Tuesday: 14:15 - 16:15 (Python - Akira)
+- Wednesday: 11:00 - 13:00 (Python - Akira)
+- Thursday: 10:00 - 12:00 (Python - Calvin)
+
+Online:
+- Tuesday: 16:15 - 18:15 (R - Yue)
+- Wednesday: 14:15 - 16:15 (Python - Calvin)
+- Thursday: 13:00 - 15:00 (Python - Akira), 15:15 - 17:15 (Python - Akira)
 
 ## Tutorials
-Tutorials are broken into 1 hour content + 1 hour consultation OR extra content.
-
 The first few tutorials will have content, with the remainder of the semester treated as consultations or additional tutorials as outlined:
 1. Introduction and Project 1 Overview:
     - Using the JupyterHub server
@@ -43,16 +47,17 @@ The first few tutorials will have content, with the remainder of the semester tr
 4. Machine Learning and Working as a Team:
     - Discussion: Overfitting, Curse of Dimensionality, Feature Engineering, etc.
     - Dimensionality Reduction
-    - Agile Methodology + standups
+    - Agile Methodology + Standups
     - Advanced: PySpark + Spark SQL
     
 5. Project 2 Overview
     - Introduction of themes
     - Getting into teams
-    - Presentations
-    - TBA
+    - Assessment
 
-6. Tutorial 6 onwards will be consultation.
+## Project 2 Tutorials
+- The last 2 weeks of tutorials will be Presentations.
+- The remainder of tutorials will act as checkpoints and consultation.
 
 ## Python Libraries Covered
 Statistical Modeling / Machine Learning:
@@ -63,25 +68,3 @@ Data Engineering / End-to-End Pipelines:
 
 Visualizations:
 - Plotly, Folium, Bokeh, seaborn, matplotlib
-
-## Dates and Times (to be confirmed)
-On Campus:
-- Monday 13:15 - 15:15 (R - Yue)
-- Tuesday: 14:15 - 16:15 (Python - Akira)
-- Wednesday: 11:00 - 13:00 (Python - Akira)
-- Thursday: 10:00 - 12:00 (Python - Calvin)
-
-Online:
-- Tuesday: 16:15 - 18:15 (R - Yue)
-- Wednesday: 14:15 - 16:15 (Python - Calvin)
-- Thursday: 13:00 - 15:00 (Python - Akira), 15:15 - 17:15 (Python - Akira)
-
-## Consultations
-TBA
-
-## Projects
-- Project 1: TBA
-- Project 2: TBA
-
-## Assignments
-- Assignment 1: TBA
