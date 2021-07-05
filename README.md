@@ -27,14 +27,14 @@ The first few tutorials will have content, with the remainder of the semester tr
     - Introduction to `folium` and `bokeh`
     - Data Serialization
     - Downloading Files using Python
-    - Advanced: WSL2 Installation + PySpark Installation
+    - Advanced: `WSL2` Installation + PySpark Installation
     
 2. Geospatial Visualization and Analysis:
     - Map Clusters, GIS Heatmaps, HexBins (vs SquareBins), Choropleths.
     - Using and installing `geopandas`.
     - Descriptive statistics
     - Histograms and Binning
-    - Advanced: PySpark
+    - Advanced: `PySpark`
     
 3. Regression and Discussion:
     - Linear Regression
@@ -42,13 +42,13 @@ The first few tutorials will have content, with the remainder of the semester tr
     - Stepwise Selection (backwards and forward using AIC)
     - Penalized Regression (LASSO and Ridge)
     - Generalized Linear Model example (Poisson for count data)
-    - Advanced: PySpark + Spark SQL
+    - Advanced: `PySpark` + `Spark SQL`
     
 4. Machine Learning and Working as a Team:
     - Discussion: Overfitting, Curse of Dimensionality, Feature Engineering, etc.
     - Dimensionality Reduction
     - Agile Methodology + Standups
-    - Advanced: PySpark + Spark SQL
+    - Advanced: `PySpark` + `Spark SQL`
     
 5. Project 2 Overview
     - Introduction of themes
@@ -56,15 +56,16 @@ The first few tutorials will have content, with the remainder of the semester tr
     - Assessment
 
 ## Project 2 Tutorials
-- The last 2 weeks of tutorials will be Presentations.
-- The remainder of tutorials will act as checkpoints and consultation.
+- Attendance is mandatory. Groups are excused one absence only. 
+- The last 2 weeks of tutorials will be Presentations, all groups must attend a designated tutorial.
+- The remainder of tutorials will act as checkpoints, consultation, and a chance for your group to conduct standups at a fixed time slot.
 
 ## Python Libraries Covered
 Statistical Modeling / Machine Learning:
-- sklearn, statsmodels
+- `sklearn`, `statsmodels`
 
 Data Engineering / End-to-End Pipelines:
-- Pandas, PySpark, NumPy, GeoPandas, papermill, re (regex)
+- `Pandas`, `PySpark`, `NumPy`, `GeoPandas`, `papermill`, `re (regex)`
 
 Visualizations:
-- Plotly, Folium, Bokeh, seaborn, matplotlib
+- `Plotly`, `Folium`, `Bokeh`, `seaborn`, `matplotlib`
