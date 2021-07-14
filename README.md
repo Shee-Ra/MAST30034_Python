@@ -3,7 +3,7 @@
 - Tutorial Up-to-Date as of: April 2021 (in progress) 
 - Usage: For MAST30034 students only  
 
-The R stream is available here (TBA).
+The R stream is available [here](https://github.com/YOU-k/MAST30034_R)
 
 ## Dates and Times
 On Campus:
@@ -53,9 +53,9 @@ The first few tutorials will have content, with the remainder of the semester tr
 5. Project 2 Overview
     - Introduction of themes
     - Getting into teams
-    - Assessment
+    - Assessment Overview
 
-## Project 2 Tutorials
+## Project 2 Tutorials (Week 6 - 12)
 - Attendance is mandatory. Groups are excused one absence only. 
 - The last 2 weeks of tutorials will be Presentations, all groups must attend a designated tutorial.
 - The remainder of tutorials will act as checkpoints, consultation, and a chance for your group to conduct standups at a fixed time slot.
