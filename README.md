@@ -1,9 +1,9 @@
 # Welcome to the MAST30034 Python Repo
-- Author: [Akira Takihara Wang](https://github.com/akiratwang)
-- Tutorial Up-to-Date as of: April 2021 (in progress) 
+- Author: [Akira Takihara Wang](https://github.com/akiratwang) and [Calvin Huang](https://github.com/Dovermore)
+- Tutorial and Tools Up-to-Date as of: July 2021
 - Usage: For MAST30034 students only  
 
-The R stream is available [here](https://github.com/YOU-k/MAST30034_R)
+The R stream is available [here](https://github.com/YOU-k/MAST30034_R).
 
 ## Dates and Times
 On Campus:
